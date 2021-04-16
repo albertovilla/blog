@@ -429,13 +429,7 @@ pre code { font-size: 15px !important; }
 
 h1 { color: #2c3e50; }
 
-.post-link li h3 a { color: #2980b9; }
-
-.toc-entry .toc-h1 li a { color: #34495e; }
-
-.toc-entry .toc-h2 a { color: #34495e; }
-
-.toc-entry .toc-h3 a { color: #34495e; }
+h1 { color: #34495e; }
 
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
