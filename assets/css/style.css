@@ -429,9 +429,9 @@ pre code { font-size: 15px !important; }
 
 h1 { color: #2c3e50; }
 
-.post-link a { color: #2980b9; }
+.post-link li h3 a { color: #2980b9; }
 
-.toc-entry .toc-h1 a { color: #34495e; }
+.toc-entry .toc-h1 li a { color: #34495e; }
 
 .toc-entry .toc-h2 a { color: #34495e; }
 
