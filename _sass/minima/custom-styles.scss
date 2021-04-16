@@ -17,9 +17,22 @@ h1 {
    color: #2c3e50;
 }
 
-a {
+.post-link a {
    color: #2980b9;
 }
+
+.toc-entry .toc-h1 a {
+   color: #34495e;
+}
+
+.toc-entry .toc-h2 a {
+   color: #34495e;
+}
+
+.toc-entry .toc-h3 a {
+   color: #34495e;
+}
+
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
