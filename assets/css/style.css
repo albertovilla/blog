@@ -427,9 +427,11 @@ pre code { font-size: 15px !important; }
 /*----- ADD YOUR STYLES BELOW -------*/
 .post-content p, .post-content li { font-size: 21px; color: #383838; }
 
+.post-link { color: #2980b9; }
+
 h1 { color: #2c3e50; }
 
-h1 { color: #34495e; }
+h2 { color: #34495e; }
 
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
