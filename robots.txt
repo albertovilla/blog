@@ -1,1 +1,1 @@
-Sitemap: https://torchml.com/blog/sitemap.xml
+Sitemap: https://torchml.com/sitemap.xml
